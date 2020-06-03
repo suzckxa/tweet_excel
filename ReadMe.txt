@@ -9,4 +9,4 @@ Follow the instructions bellow.
 5. Run this programme on terminal. Do not forget to move to the folder that the text file and this programme stored before running the programme. Input the filenames with its file extension.
 
 Reference
-How to download your tweet data: https://help.twitter.com/en/managing-your-account/accessing-your-twitter-data"}}{\fldrslt \cf2 \ul https://help.twitter.com/en/managing-your-account/accessing-your-twitter-data
+How to download your tweet data: https://help.twitter.com/en/managing-your-account/accessing-your-twitter-data
