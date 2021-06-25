@@ -1,5 +1,5 @@
-This is a programme for inputting tweet archive data into excel file.
-This programme works on MacOS.
+This is a program for inputting tweet archive data into excel file.
+This program works on MacOS.
 
 Follow the instructions bellow.
 1. Download your Twitter account data from Twitter.
